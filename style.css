@@ -1,0 +1,143 @@
+body {
+background-color: blanchedalmond;
+font-family: Verdana, sans-serif;
+}
+header {
+  width: 26%;
+  height: 120px;
+  background-color: olive;
+  margin-left: 629px;
+  margin-bottom: 5px;
+}
+input[type="text"], input[type="email"], textarea, button {
+  display: block;
+  margin: 15px 0px;
+  width: 400px;
+  box-sizing: border-box;
+  border-radius: 6px;
+  box-shadow: inset 2px 2px 5px blue;
+  margin-left: 680px;
+}
+textarea {
+  height: 200px;
+  background-color: lightblue;
+  padding: 5px 4px;
+  margin-left: 680px;
+}
+button {
+  background-color: lightblue;
+  color: maroon;
+  border-radius: 8px;
+  width: 100px;
+  margin-left: 680px.
+}
+button:active {
+  background-color: green;
+  color: darkblue;
+  border-radius: 8px;
+  box-shadow: inset 2px 2px 5px blue;
+  width: 200px;
+  margin-left: 680px;
+}
+footer {
+  width: 26%;
+  min-height: 200px;
+  background-color: orange;
+  margin-bottom: 1px;
+  margin-left: 629px;
+}
+small {
+padding-left: 200px;
+margin-bottom: 50px;
+}
+ table {
+  background-color: darkgrey;
+  width: 496px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-left: 630px;
+  align: center
+}
+#imgeen {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+#imgtwee {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+
+}
+#imgdrie {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+#imgvier {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+#imgvijf {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+#imgzes {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+#imgzeven {
+  width: 160px;
+  Height: 140px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+#imgacht {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+#imgnegen {
+  width: 160px;
+  height: 140px;
+  margin-left: 1px;
+}
+ul a {
+color: white;
+text-decoration: none;
+}
+li {
+  display: inline-block;
+  height: 22px;
+  width: 100px;
+  padding 12px;
+  text-align: center;
+  color: white;
+  border-left: 2px solid green:
+  border-right: 1px solid green;
+  background-color: skyblue;
+}
+li:hover {
+background-color: lightgreen;
+border-style: none;
+}
+h1 {
+  margin-left: 300px;
+  padding-top: 8px;
+}
+p {
+  padding-bottom: 20px;
+  margin-left: 700px;
+}
+h2 {
+  margin-left: 700px;
+  margin-bottom: 15px;
+}
+h3 {
+  margin-left: 700px;
+  color: maroon;
+}
